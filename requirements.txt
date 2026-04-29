@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+# add other dependencies like openai, pydantic, etc.
